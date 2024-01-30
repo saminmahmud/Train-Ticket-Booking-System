@@ -18,7 +18,7 @@ The Train Ticket Booking System is a web application designed to facilitate the 
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/saminmahmud/Bangladesh_Railway.git
+git clone https://github.com/saminmahmud/Train-Ticket-Booking-System.git
 ```
 ### Start the development server:
 
